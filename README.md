@@ -10,4 +10,4 @@
 
 ### Link
 
-[codeTime](https://wajih-alzouhairy.github.io/calculator/)
+[calculator](https://wajih-alzouhairy.github.io/calculator/)
